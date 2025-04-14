@@ -1,2 +1,0 @@
-This is a normal text file.
-It contains general information and is completely safe.
